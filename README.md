@@ -1,4 +1,4 @@
-/* Copyright (C) 2019 Jeevan Basnet
+ ```/* Copyright (C) 2019 Jeevan Basnet
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
@@ -12,6 +12,7 @@
  */
 
 /* The license applies to the repository and its files and folders */ <br/>
+```
 
 [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup) <br />
 
